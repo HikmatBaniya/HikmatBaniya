@@ -11,7 +11,7 @@
 - 🌱 I’m learning **PyTorch, NLP, and Advanced ML**
 - 💡 I love discussing **AI, ML, and Finance**
 - 📫 Reach me at **HikmatBaniya77@gmail.com**
-- ⚡ Fun Fact: I rarely go out but I can talk about AI for hours!  
+- ⚡ Fun Fact: My laptop fan sounds like a jet engine when I train deep learning models!  
 
 ---
 
@@ -33,7 +33,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmatbaniya&layout=compact&theme=radical" />
 </p>
-### 👀 Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hikmatbaniya&color=blue&style=for-the-badge" alt="Profile Views">
 </p>
