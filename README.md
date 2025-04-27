@@ -6,12 +6,9 @@
   </a>
 </p>
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Machine Learning & AI**
-- 🌱 I’m learning **PyTorch, NLP, and Advanced ML**
+###  About Me
 - 💡 I love discussing **AI, ML, and Finance**
-- 📫 Reach me at **HikmatBaniya77@gmail.com**
-- ⚡ Fun Fact: My laptop fan sounds like a jet engine when I train deep learning models!  
+- 📫 Reach me at **HikmatBaniya77@gmail.com** 
 
 ---
 
