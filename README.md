@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hikmat Baniya 👋</h1>
+<h1 align="center">Hi there, I'm Hikmat Baniya </h1>
 
 <p align="center">
   <a href="https://github.com/hikmatbaniya">
@@ -7,12 +7,12 @@
 </p>
 
 ###  About Me
-- 💡 I love discussing **AI, ML, and Finance**
-- 📫 Reach me at **HikmatBaniya77@gmail.com** 
+-  I love discussing **AI, ML, and Finance**
+-  Reach me at **HikmatBaniya77@gmail.com** 
 
 ---
 
-### 🛠 Tech Stack  
+###  Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikmatbaniya&layout=compact&theme=radical" />
 </p>
